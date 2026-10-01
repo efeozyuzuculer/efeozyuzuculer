@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm @efeozyuzuculer
 
-<!--
-**efeozyuzuculer/efeozyuzuculer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm starting to contribute to open source with AI assistance, focusing on small, clearly scoped tasks.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reproducible bug reports and small fixes
+- Data and file processing tasks
+- Clear documentation and examples
+
+## Approach
+
+I use AI tools to help investigate issues, prepare changes, and run checks. Contributions should follow the repository's rules and include relevant validation results and any known limitations.
+
+Completed contributions will be linked here as they become available.
